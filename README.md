@@ -10,9 +10,9 @@
 
 하늘에서 떨어지는 착색된 배달용기를 카로로로 문질러 닦아주세요! 미처 닦지 못한
 배달용기가 바닥에 닿으면 게임이 끝나요. 정화한 용기 수 만큼 점수를 얻을 수
-있어요. 
+있어요.
 <br/>
-<img src="media/gameplay.gif" width="30%" height="30%">
+<img src="media/gameplay.gif" width="50%" height="50%">
 
 ## 카로로에 대해 더 알고싶다면?
 
