@@ -1,16 +1,15 @@
-# carororo_dagga
+# 카로로로 닦아!
 
-A new Flutter project.
+2021 JA Korea 창업놀이터 대상작 카로로를 홍보하기 위해 제작한 게임입니다.
+카로로로 더러워진 배달용기를 닦아주세요!
 
-## Getting Started
+## 게임 하는 법
 
-This project is a starting point for a Flutter application.
+하늘에서 떨어지는 착색된 배달용기를 카로로로 문질러 닦아주세요! 미처 닦지 못한
+배달용기가 바닥에 닿으면 게임이 끝나요. 정화한 용기 수 만큼 점수를 얻을 수
+있어요. ![게임플레이](media/gameplay.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## 카로로에 대해 더 알아보기
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [스브스 뉴스 - 댕귀찮은 플라스틱 착색, 간단히 해결한 고등학생들⭐️](https://www.youtube.com/watch?v=6DdIrM17Gd8)
+- [카로로 유튜브 소개 영상](https://www.youtube.com/watch?v=3foKcIzIRbo)
